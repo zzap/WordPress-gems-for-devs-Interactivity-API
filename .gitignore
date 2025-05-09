@@ -16,3 +16,4 @@ wp-content/plugins/*
 # Except:
 !wp-content/plugins/toggle/
 !wp-content/plugins/toggle-count/
+!wp-content/plugins/test/
