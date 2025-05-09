@@ -45,6 +45,8 @@ wp_interactivity_state(
 		<?php esc_html_e( 'Toggle', 'test' ); ?>
 	</button>
 
+	<p>The toggle was opened <span data-wp-text="state.countToggles"></span> times.</p>
+
 	<p
 		id="<?php echo esc_attr( $unique_id ); ?>"
 		data-wp-bind--hidden="!context.isOpen"
