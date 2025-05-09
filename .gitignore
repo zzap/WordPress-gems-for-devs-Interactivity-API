@@ -4,16 +4,8 @@
 !.gitignore
 !README.md
 !LICENSE
-!wp-content/
 
-# Ignore everything in wp-content
-wp-content/*
-# Except:
-!wp-content/plugins/
-
-# Ignore everything in wp-content/plugins
-wp-content/plugins/*
-# Except:
-!wp-content/plugins/toggle/
-!wp-content/plugins/toggle-count/
-!wp-content/plugins/test/
+# Keep these plugins
+!wp-content/plugins/toggle/**/*
+!wp-content/plugins/toggle-count/**/*
+!wp-content/plugins/test/**/*
