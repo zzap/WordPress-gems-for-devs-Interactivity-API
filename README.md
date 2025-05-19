@@ -4,7 +4,7 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 | Event  | Date | Branch | Links |
 | --- | --- | --- | --- |
-| WordCamp Lisboa 2025 | 17 May 2025 | [conf/WordCamp-Lisboa-2025]() | [Event](https://lisboa.wordcamp.org/2025/session/wordpress-gems-for-devs-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/13qQx0pv41uWfVXPGjgP_9d0MkXuXIbUkoyNdL-ayYt4/edit?usp=sharing) |
+| WordCamp Lisboa 2025 | 17 May 2025 | [conf/WordCamp-Lisboa-2025](https://github.com/zzap/WordPress-gems-for-devs-Interactivity-API/tree/conf/WordCamp-Lisboa-2025) | [Event](https://lisboa.wordcamp.org/2025/session/wordpress-gems-for-devs-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/13qQx0pv41uWfVXPGjgP_9d0MkXuXIbUkoyNdL-ayYt4/edit?usp=sharing) |
 
 ### What problems does it solve?
 
