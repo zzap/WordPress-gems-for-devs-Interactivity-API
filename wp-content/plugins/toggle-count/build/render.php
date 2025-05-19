@@ -21,6 +21,7 @@ wp_interactivity_state(
 		'darkText'  => esc_html__( 'Switch to Light', 'toggle-count' ),
 		'lightText' => esc_html__( 'Switch to Dark', 'toggle-count' ),
 		'themeText'	=> esc_html__( 'Switch to Dark', 'toggle-count' ),
+		'countToggles' => 4,
 	)
 );
 ?>
@@ -32,13 +33,15 @@ wp_interactivity_state(
 	data-wp-watch="callbacks.logIsOpen"
 	data-wp-class--dark-theme="state.isDark"
 >
+	<p>The other block opened <span data-wp-text="state.countToggles">X</span> times.</p>
+
 	<button
 		data-wp-on--click="actions.toggleTheme"
 		data-wp-text="state.themeText"
 	></button>
 
 	<button
-		data-wp-on--click="actions.toggleOpen"
+		data-wp-on--click="actions.toggleOpenNew"
 		data-wp-bind--aria-expanded="context.isOpen"
 		aria-controls="<?php echo esc_attr( $unique_id ); ?>"
 	>

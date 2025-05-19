@@ -3,11 +3,17 @@
  */
 import { store, getContext } from '@wordpress/interactivity';
 
+const { state: wpState } = store( 'wpgems' );
+
 const { state } = store( 'other', {
 	state: {
+		"countToggles": wpState.countToggles,
 		get themeText() {
 			return state.isDark ? state.darkText : state.lightText;
 		},
+		get countToggles() {
+			return wpState.countToggles;
+		}
 	},
 	actions: {
 		toggleOpen() {
