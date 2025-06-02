@@ -4,6 +4,7 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 | Event  | Date | Branch | Links |
 | --- | --- | --- | --- |
+| IPC Berlin 2025 | 4 June 2025 | [conf/IPC-Berlin-2025]() | [Event](https://phpconference.com/php-core-coding/wordpress-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/1-DtY6MJHO7WbGcttfrIl-vegCNZp2lGorAj5-qnSwZQ/edit?usp=sharing) |
 | WordCamp Lisboa 2025 | 17 May 2025 | [conf/WordCamp-Lisboa-2025](https://github.com/zzap/WordPress-gems-for-devs-Interactivity-API/tree/conf/WordCamp-Lisboa-2025) | [Event](https://lisboa.wordcamp.org/2025/session/wordpress-gems-for-devs-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/13qQx0pv41uWfVXPGjgP_9d0MkXuXIbUkoyNdL-ayYt4/edit?usp=sharing) |
 
 ### What problems does it solve?
@@ -42,7 +43,7 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 #### History
 
-The idea of using the declarative method to bridge the connection between frontend and backend came from the [Cloudfest 2022 Hackathon project](https://hackathon.cloudfest.com/cloudfest-hackathon-2022-greatest-hackathon-ever/), [Bento + WordPress](https://www.alainschlesser.com/using-bento-components-in-gutenberg-blocks/), which was led by [Alain Schlesser](https://github.com/schlessera) and [Pascal Birchler](https://github.com/swissspidy). 
+The idea of using the declarative method to bridge the connection between frontend and backend came from the [Cloudfest 2022 Hackathon project](https://hackathon.cloudfest.com/cloudfest-hackathon-2022-greatest-hackathon-ever/), [Bento + WordPress](https://www.alainschlesser.com/using-bento-components-in-gutenberg-blocks/), which was led by [Alain Schlesser](https://github.com/schlessera) and [Pascal Birchler](https://github.com/swissspidy).
 
 ### Equivalents in other PHP frameworks
 
