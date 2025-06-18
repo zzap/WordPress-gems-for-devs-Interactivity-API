@@ -21,6 +21,7 @@ wp_interactivity_state(
 		'darkText'  => esc_html__( 'Switch to Light', 'toggle-count' ),
 		'lightText' => esc_html__( 'Switch to Dark', 'toggle-count' ),
 		'themeText'	=> esc_html__( 'Switch to Dark', 'toggle-count' ),
+		'toggleCount' => 4,
 	)
 );
 ?>
@@ -32,6 +33,7 @@ wp_interactivity_state(
 	data-wp-watch="callbacks.logIsOpen"
 	data-wp-class--dark-theme="state.isDark"
 >
+	<p>The above block opened toggle <span data-wp-text="state.toggleCount">X</span> times.</p>
 	<button
 		data-wp-on--click="actions.toggleTheme"
 		data-wp-text="state.themeText"
