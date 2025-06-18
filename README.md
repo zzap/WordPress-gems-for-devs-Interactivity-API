@@ -4,8 +4,8 @@ Repository for code examples and resources used in the "WordPress gems for devs:
 
 | Event  | Date | Branch | Links |
 | --- | --- | --- | --- |
-| IPC Berlin 2025 | 4 June 2025 | [conf/IPC-Berlin-2025]() | [Event](https://phpconference.com/php-core-coding/wordpress-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/1-DtY6MJHO7WbGcttfrIl-vegCNZp2lGorAj5-qnSwZQ/edit?usp=sharing) |
-| WordCamp Lisboa 2025 | 17 May 2025 | [conf/WordCamp-Lisboa-2025](https://github.com/zzap/WordPress-gems-for-devs-Interactivity-API/tree/conf/WordCamp-Lisboa-2025) | [Event](https://lisboa.wordcamp.org/2025/session/wordpress-gems-for-devs-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/13qQx0pv41uWfVXPGjgP_9d0MkXuXIbUkoyNdL-ayYt4/edit?usp=sharing) |
+| IPC Berlin 2025 | 4 June 2025 | [conf/IPC-Berlin-2025](https://github.com/zzap/WordPress-gems-for-devs-Interactivity-API/tree/conf/IPC-Berlin-2025) | [Event](https://phpconference.com/php-core-coding/wordpress-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/1-DtY6MJHO7WbGcttfrIl-vegCNZp2lGorAj5-qnSwZQ/edit?usp=sharing) |
+| WordCamp Lisboa 2025 | 17 May 2025 | [conf/WordCamp-Lisboa-2025](https://github.com/zzap/WordPress-gems-for-devs-Interactivity-API/tree/conf/WordCamp-Lisboa-2025) | [Event](https://lisboa.wordcamp.org/2025/session/wordpress-gems-for-devs-interactivity-api/) \| [Slides](https://docs.google.com/presentation/d/13qQx0pv41uWfVXPGjgP_9d0MkXuXIbUkoyNdL-ayYt4/edit?usp=sharing) \| [Video](https://wordpress.tv/2025/05/19/wordpress-gems-for-devs-interactivity-api/) |
 
 ### What problems does it solve?
 
