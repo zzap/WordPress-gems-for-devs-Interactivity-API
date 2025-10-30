@@ -2,6 +2,7 @@
 *
 # Except:
 !.gitignore
+!.wp-env.json
 !README.md
 !LICENSE
 
