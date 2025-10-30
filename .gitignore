@@ -5,6 +5,7 @@
 !.wp-env.json
 !README.md
 !LICENSE
+!post-content.html
 
 # Keep these plugins
 !wp-content/plugins/toggle/**/*
