@@ -7,7 +7,18 @@
 !LICENSE
 !post-content.html
 
+!wp-content/
+wp-content/*
+!wp-content/plugins/
+wp-content/plugins/*
+
 # Keep these plugins
 !wp-content/plugins/toggle/**/*
 !wp-content/plugins/toggle-count/**/*
 !wp-content/plugins/test/**/*
+!wp-content/plugins/block-one/
+!wp-content/plugins/block-one/**/*
+!wp-content/plugins/block-two/
+!wp-content/plugins/block-two/**/*
+!wp-content/plugins/block-three/
+!wp-content/plugins/block-three/**/*
