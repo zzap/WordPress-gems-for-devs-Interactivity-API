@@ -19,3 +19,9 @@ wp-content/plugins/*
 !wp-content/plugins/block-1/**/*
 !wp-content/plugins/block-2/**/*
 !wp-content/plugins/block-3/**/*
+!wp-content/plugins/block-one/
+!wp-content/plugins/block-one/**/*
+!wp-content/plugins/block-two/
+!wp-content/plugins/block-two/**/*
+!wp-content/plugins/block-three/
+!wp-content/plugins/block-three/**/*
